@@ -1,6 +1,6 @@
 # Shadowscapes
 ## How to install and run the game:
-Click on the link , and download the game asset folder and click exe file to play.
+Click on the link , and extract the zip folder and right click and click on open in terminal. Then type "python shadowscapes_main.py" to play.
 
 https://github.com/akrabc/Shadowscapes/blob/main/ShadowScapes.zip
 ## About the game:
