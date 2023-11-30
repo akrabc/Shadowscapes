@@ -25,7 +25,8 @@ In the final world against the final mage, the player can move both ways, but th
 After the player defeats the final mage and moves out of that map, he meets up with the princess, held hostage, and they set out back to their kingdom.
 The open source images from web has been taken and then the class spritesheet.py breaks the png into individual images. Then we made a list of these broken images and iterated through each image in loop.
 ## Gameplay:
-https://clipchamp.com/watch/NCCSu8vYbKr
+https://clipchamp.com/watch/NCCSu8vYbKr  
+
 https://clipchamp.com/watch/kFIUASfSsMw
 ## Credits:
 Developed by Areen Ramesh Patil,Krishna Sai and Ramya Parsania.
